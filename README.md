@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biQte
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on mobile applications
+- 🌱 I’m currently learning flutter and vue.js
+- 💞️ I’m looking to collaborate on mobile applications or web pages
 - 📫 How to reach me patrykgonet@gmail.com
 
 <!---
