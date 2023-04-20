@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @biQte
+- 👋 Hi, I’m @GonteQ
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter and vue.js
+- 🌱 I’m currently learning flutter, vue.js and node.js
 - 💞️ I’m looking to collaborate on mobile applications and/or web pages
-- 📫 How to reach me patrykgonet@gmail.com
+- 📫 You can reach me via email: patrykgonet@gmail.com
 
 <!---
 biQte/biQte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
