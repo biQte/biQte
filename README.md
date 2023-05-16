@@ -7,7 +7,7 @@
 - Tech stack:
   - App: flutter
   - Frontend: Vue.js(typescipt)
-  - Backend: Node.js(typescript, express, typeorm), PostgreSQL
+  - Backend: Node.js(typescript, express, typeorm, socketIO), PostgreSQL
 
 <!---
 biQte/biQte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
