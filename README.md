@@ -1,15 +1,20 @@
-- 👋 Hi, I’m @GonteQ
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter, vue.js and node.js
-- 💞️ I’m looking to collaborate on mobile applications and/or web pages
-- 📫 You can reach me via email: patrykgonet@gmail.com
+<h1 align="center">Hi, I'm Patryk</h1>
+<h3 align="center">Fullstack Developer</h3>
 
-- Tech stack:
-  - App: flutter
-  - Frontend: Vue.js(typescipt, pinia, socketIO)
-  - Backend: Node.js(typescript, express, prisma, socketIO), PostgreSQL
+###
 
-<!---
-biQte/biQte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://patrykgonet.pl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=patrykgonet.pl&label=&logo=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Website Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/patryk-gonet-a32504234" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin Badge"  />
+  </a>
+  <a href="mailto:kontakt@patrykgonet.pl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact%20Me&logo=&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Contact me Badge" />
+  </a>
+</div>
+
+###
+
+
